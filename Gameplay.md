@@ -41,6 +41,7 @@ When you finished your first task, you have to fight with devil pets (monsters),
   * Asil Dungeon - 20 Level
   
 * Also if you want to go these places, you have to wait for little bit:
+
 | Location 1 | Location 2   | Time (secs) |
 |------------|--------------|-------------|
 | Asillage   | Asil Shop    | 0           |
